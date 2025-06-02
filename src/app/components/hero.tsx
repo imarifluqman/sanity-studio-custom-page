@@ -1,5 +1,5 @@
 import React from 'react'
-import { Bot, ChevronRight } from "lucide-react";
+import { ChevronRight } from "lucide-react";
 import Image from 'next/image';
 function Hero() {
     return (
